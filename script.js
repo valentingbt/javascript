@@ -1,3 +1,3 @@
-function message() {
-    console.log("Hello World");
-}
+function message(a) {
+    console.log("Hello " + a);
+};
